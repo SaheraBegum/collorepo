@@ -23,3 +23,7 @@ I am ***sahera begum***
  4|Akhila|561
  ## Image
  ![alt Foood](chicken_fry.jpg)
+## Insert a code
+python code to add two numbers
+ a,b=4,6
+  print("Sum of {} and {] is {}".format(a,b,a+b))
