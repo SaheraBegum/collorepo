@@ -22,4 +22,4 @@ I am ***sahera begum***
  3|Prasanna|579
  4|Akhila|561
  ## Image
- [Foood](chicken_fry.jpg)
+ ![alt Foood](chicken_fry.jpg)
